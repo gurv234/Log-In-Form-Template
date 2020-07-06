@@ -3,3 +3,4 @@ A basic login form created using HTML and CSS. This is my submission for Stirrin
 This is just a simple front-end implementation of the form, back-end or database can be added as per requirements.
 
 ## Output
+![Careerguide Login Form](/images/formss.png)
